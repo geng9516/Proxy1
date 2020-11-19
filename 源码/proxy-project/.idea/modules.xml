@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch02-test-method/02-test-method.iml" filepath="$PROJECT_DIR$/ch02-test-method/02-test-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch01-static-proxy/ch01-static-proxy.iml" filepath="$PROJECT_DIR$/ch01-static-proxy/ch01-static-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03-dynamic-proxy/ch03-dynamic-proxy.iml" filepath="$PROJECT_DIR$/ch03-dynamic-proxy/ch03-dynamic-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04-add/ch04-add.iml" filepath="$PROJECT_DIR$/ch04-add/ch04-add.iml" />
+    </modules>
+  </component>
+</project>
